@@ -1,4 +1,5 @@
 # Sandbox
+[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors)
 
 ## Colours on README
 - ![#0080ff](https://placehold.it/15/0080ff/000000?text=+) `#0080ff`
@@ -8,4 +9,5 @@
 
 ## Contributors
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
