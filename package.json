@@ -1,0 +1,33 @@
+{
+  "name": "sandbox",
+  "version": "0.0.0-development",
+  "description": "My GH sandbox",
+  "main": "index.js",
+  "dependencies": {
+    "all-contributors-cli": "^5.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "contribs:add": "all-contributors add",
+    "contribs:check": "all-contributors check",
+    "contribs:gen": "all-contributors generate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Berkmann18@github.com/Berkmann18/Sandbox.git"
+  },
+  "keywords": [
+    "Sandbox",
+    "Github",
+    "GH",
+    "repo",
+    "tests"
+  ],
+  "author": "Maximilian Berkmann <maxieberkmann@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Berkmann18/Sandbox/issues"
+  },
+  "homepage": "https://github.com/Berkmann18/Sandbox#readme"
+}
