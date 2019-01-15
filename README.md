@@ -5,3 +5,7 @@
 - ![#fff](https://placehold.it/15/fff/000000?text=+) `#fff`
 - ![#00ff00](https://placehold.it/15/00ff00/000?text=+) `#00ff00`
 - ![#00f](https://placehold.it/15/00f/ff0?text=+) `#00f`
+
+## Contributors
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
