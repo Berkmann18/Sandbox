@@ -1,5 +1,5 @@
 # Sandbox
-[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 ## Colours on README
 - ![#0080ff](https://placehold.it/15/0080ff/000000?text=+) `#0080ff`
@@ -10,4 +10,6 @@
 ## Contributors
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
+| [<img src="https://avatars0.githubusercontent.com/u/8260834?v=4" width="100px;"/><br /><sub><b>Maximilian Berkmann</b></sub>](maxcubing.wordpress.com)<br />[💻](https://github.com/Berkmann18/Sandbox/commits?author=Berkmann18 "Code") [🛡️](#security-Berkmann18 "Security") |
+| :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
